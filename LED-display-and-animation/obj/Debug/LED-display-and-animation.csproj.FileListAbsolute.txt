@@ -1,0 +1,11 @@
+C:\Users\fanti\source\repos\LED-display-and-animation\LED-display-and-animation\bin\Debug\LED-display-and-animation.exe.config
+C:\Users\fanti\source\repos\LED-display-and-animation\LED-display-and-animation\bin\Debug\LED-display-and-animation.exe
+C:\Users\fanti\source\repos\LED-display-and-animation\LED-display-and-animation\bin\Debug\LED-display-and-animation.pdb
+C:\Users\fanti\source\repos\LED-display-and-animation\LED-display-and-animation\obj\Debug\LED-display-and-animation.csproj.AssemblyReference.cache
+C:\Users\fanti\source\repos\LED-display-and-animation\LED-display-and-animation\obj\Debug\LED-display-and-animation.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanti\source\repos\LED-display-and-animation\LED-display-and-animation\obj\Debug\LED_display_and_animation.MainForm.resources
+C:\Users\fanti\source\repos\LED-display-and-animation\LED-display-and-animation\obj\Debug\LED_display_and_animation.Properties.Resources.resources
+C:\Users\fanti\source\repos\LED-display-and-animation\LED-display-and-animation\obj\Debug\LED-display-and-animation.csproj.GenerateResource.cache
+C:\Users\fanti\source\repos\LED-display-and-animation\LED-display-and-animation\obj\Debug\LED-display-and-animation.csproj.CoreCompileInputs.cache
+C:\Users\fanti\source\repos\LED-display-and-animation\LED-display-and-animation\obj\Debug\LED-display-and-animation.exe
+C:\Users\fanti\source\repos\LED-display-and-animation\LED-display-and-animation\obj\Debug\LED-display-and-animation.pdb
